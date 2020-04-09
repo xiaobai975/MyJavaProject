@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyJavaProject.iml" filepath="$PROJECT_DIR$/MyJavaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project04/Project04.iml" filepath="$PROJECT_DIR$/Project04/Project04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bankproject/bankproject.iml" filepath="$PROJECT_DIR$/bankproject/bankproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc_1/jdbc_1.iml" filepath="$PROJECT_DIR$/jdbc_1/jdbc_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc_2/jdbc_2.iml" filepath="$PROJECT_DIR$/jdbc_2/jdbc_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcreview/jdbcreview.iml" filepath="$PROJECT_DIR$/jdbcreview/jdbcreview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcstudy/jdbcstudy.iml" filepath="$PROJECT_DIR$/jdbcstudy/jdbcstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcstudy2/jdbcstudy2.iml" filepath="$PROJECT_DIR$/jdbcstudy2/jdbcstudy2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybank/mybank.iml" filepath="$PROJECT_DIR$/mybank/mybank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project02/project02.iml" filepath="$PROJECT_DIR$/project02/project02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/review01/review01.iml" filepath="$PROJECT_DIR$/review01/review01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlproject/sqlproject.iml" filepath="$PROJECT_DIR$/sqlproject/sqlproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updateproject02/updateproject02.iml" filepath="$PROJECT_DIR$/updateproject02/updateproject02.iml" />
+    </modules>
+  </component>
+</project>
